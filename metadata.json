@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live TTS",
+  "description": "A real-time, bidirectional voice communication application using Google's Gemini Live API. Features ultra-low latency, seamless interrupt capability, multiple voice personalities, and real-time transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
